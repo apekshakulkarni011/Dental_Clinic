@@ -35,4 +35,4 @@ Use pip to install mysql-connector and flask
 
 After all, go to URL http://localhost:5000
 
-Movie-Ticket-Booking-
+
