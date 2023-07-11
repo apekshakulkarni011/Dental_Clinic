@@ -2,6 +2,7 @@
 This is a system that allows you to book a dentist appointment online.
 
 Hii...all I have Created Dental Clinic Software Which Allows You Sheduled Your Appointments Online. 
+
 #Here's why:
 
 Your time should be focused on creating something amazing. A project that solves a problem and helps others You shouldn't be doing the same tasks over and over like creating a README from scratch You should implement DRY principles to the rest of your life 😄
@@ -16,7 +17,7 @@ HTML
 
 CSS
 
-Boostrap
+BOOSTRAP
 
 JAVASCRIPT
 
